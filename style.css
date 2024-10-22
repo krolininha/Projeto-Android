@@ -6,7 +6,7 @@
     font-weight: normal;
 }
 
-:root {
+:root { 
     --cor0: #c5ebd6;
     --cor1: #83e1ad;
     --cor2: #3ddc84;
@@ -62,7 +62,7 @@ header > p {
     padding-right: 10px;
     padding-left: 10px;
     margin: auto;
-    margin-bottom: 30px;
+    padding-bottom: 50px;
     font-size: 1.2em;
     text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.219);
     
